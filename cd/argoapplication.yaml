@@ -9,4 +9,5 @@ spec:
     repoURL: registry-1.docker.io/bitnamicharts
     targetRevision: 24.0.0
   destination:
+    name: in-cluster
     namespace: argocd-keycloak
